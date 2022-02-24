@@ -1,6 +1,6 @@
 # Lasanha de Carne Moída
 
-### Ingredientes
+### _Ingredientes_
 
 - 500 g [de massa de lasanha](https://blog.tudogostoso.com.br/cardapios/receitas-com-massa-da-lasanha/)
 - 500 g [de carne moída](https://blog.tudogostoso.com.br/cardapios/3-receitas-com-carne-moida/)
@@ -17,13 +17,13 @@
 - 3 dentes de alho amassados
 - 1 pacote de queijo ralado
 
-### Modo de preparo 
+### _Modo de preparo_ 
 
 1. **Lasanha:**
-2. Cozinhe [a massa](https://blog.tudogostoso.com.br/cardapios/tipos-massa-para-lasanha/) segundo as orientações do fabricante, despeje em um refratário com água gelada para não grudar e reserve.
+2. Cozinhe a massa para lasanha segundo as orientações do fabricante, despeje em um refratário com água gelada para não grudar e reserve.
 3. **Molho à bolonhesa**
 4. Refogue o alho, a cebola, a carne moída, o molho de tomate, deixe cozinhar por 3 minutos e reserve.
-5. [**Molho branco**](https://blog.tudogostoso.com.br/cardapios/molho-branco-para-lasanha/)
+5. **Molho branco**
 6. Derreta a margarina, coloque as 3 colheres de farinha de trigo e mexa.
 7. Despeje o leite aos poucos e continue mexendo.
 8. Por último, coloque o creme de leite, mexa por 1 minuto e desligue o fogo.
